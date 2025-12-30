@@ -28,17 +28,17 @@
   "servicios": [
     {
       "id": 1,
-      "titulo": "Instalación Eléctrica",
-      "descripcion": "Instalación eléctrica profesional para viviendas y locales.",
-      "imagen": "https://images.unsplash.com/photo-1581091012184-7c54cfa5a4b1?auto=format&fit=crop&w=800&q=80",
-      "precio": 120,
+      "titulo": "Servicio de Limpieza de Hogar",
+      "descripcion": "Servicio profesional de limpieza para casas y departamentos.",
+      "imagen": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=1170&auto=format&fit=crop",
+      "precio": 100,
       "estrellas": 5
     },
     {
       "id": 2,
       "titulo": "Mantenimiento de Herramientas",
-      "descripcion": "Revisión, limpieza y mantenimiento de herramientas eléctricas.",
-      "imagen": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "descripcion": "Revisión, limpieza y mantenimiento de herramientas.",
+      "imagen": "https://img.freepik.com/free-photo/bike-creation-workshop_23-2148866656.jpg?t=st=1767108034~exp=1767111634~hmac=76c48a1c6a1a305242084cb3179847460e5b1398c975aa25e45494c36b4ec0a6",
       "precio": 60,
       "estrellas": 4
     },
@@ -46,11 +46,12 @@
       "id": 3,
       "titulo": "Montaje de Muebles",
       "descripcion": "Servicio de montaje de muebles a domicilio.",
-      "imagen": "https://images.unsplash.com/photo-1588854337221-4cf9fa96059c?auto=format&fit=crop&w=800&q=80",
+      "imagen": "https://img.freepik.com/free-photo/smiling-carpenter-measuring-wooden-planks_329181-3745.jpg?t=st=1767114289~exp=1767117889~hmac=4ada6f6f435f6e7c5c354ec32adba8d0d71e2c04ecd01c6964a25325e1184fcb",
       "precio": 90,
       "estrellas": 4
     }
   ]
 }
+
 
 
