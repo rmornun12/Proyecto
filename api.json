@@ -1,0 +1,55 @@
+{
+  "herramientas": [
+    {
+      "id": 1,
+      "titulo": "Taladro Inalámbrico",
+      "descripcion": "Taladro inalámbrico de 18V con batería recargable y maletín incluido.",
+      "imagen": "https://images.unsplash.com/photo-1586864387789-628af9feed72",
+      "precio": 79,
+      "estrellas": 5
+    },
+    {
+      "id": 2,
+      "titulo": "Amoladora Angular",
+      "descripcion": "Amoladora angular profesional para corte y desbaste.",
+      "imagen": "https://images.unsplash.com/photo-1616627453832-6c2f0e0e1f58",
+      "precio": 65,
+      "estrellas": 4
+    },
+    {
+      "id": 3,
+      "titulo": "Caja de Herramientas",
+      "descripcion": "Caja de herramientas resistente con compartimentos organizadores.",
+      "imagen": "https://images.unsplash.com/photo-1586864387789-628af9feed72",
+      "precio": 40,
+      "estrellas": 4
+    }
+  ],
+
+  "servicios": [
+    {
+      "id": 1,
+      "titulo": "Instalación Eléctrica",
+      "descripcion": "Instalación eléctrica profesional para viviendas y locales.",
+      "imagen": "https://images.unsplash.com/photo-1581091012184-7c54cfa5a4b1",
+      "precio": 120,
+      "estrellas": 5
+    },
+    {
+      "id": 2,
+      "titulo": "Mantenimiento de Herramientas",
+      "descripcion": "Revisión, limpieza y mantenimiento de herramientas eléctricas.",
+      "imagen": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "precio": 60,
+      "estrellas": 4
+    },
+    {
+      "id": 3,
+      "titulo": "Montaje de Muebles",
+      "descripcion": "Servicio de montaje de muebles a domicilio.",
+      "imagen": "https://images.unsplash.com/photo-1588854337221-4cf9fa96059c",
+      "precio": 90,
+      "estrellas": 4
+    }
+  ]
+}
