@@ -6,7 +6,8 @@
       "descripcion": "Taladro inalámbrico de 18V con batería recargable y maletín incluido.",
       "imagen": "https://images.unsplash.com/photo-1622044939413-0b829c342434?q=80&w=687&auto=format&fit=crop",
       "precio": 79,
-      "estrellas": 5
+      "estrellas": 5,
+      "stock": 12
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "descripcion": "Amoladora angular profesional para corte y desbaste.",
       "imagen": "https://media.istockphoto.com/id/149717679/es/foto/m%C3%A1quina-de-corte-manual.webp?a=1&b=1&s=612x612&w=0&k=20&c=aDd2nv_qbstRwxsrWWyloD1x5xMuSs1774HZDH7P7Eo=",
       "precio": 65,
-      "estrellas": 4
+      "estrellas": 4,
+      "stock": 4
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "descripcion": "Caja de herramientas resistente con compartimentos organizadores.",
       "imagen": "https://images.unsplash.com/photo-1585569695919-db237e7cc455?q=80&w=1170&auto=format&fit=crop",
       "precio": 40,
-      "estrellas": 4
+      "estrellas": 4,
+      "stock": 7
     }
   ],
   "servicios": [
@@ -32,7 +35,8 @@
       "descripcion": "Servicio profesional de limpieza para casas y departamentos.",
       "imagen": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=1170&auto=format&fit=crop",
       "precio": 100,
-      "estrellas": 5
+      "estrellas": 5,
+      "stock": true
     },
     {
       "id": 2,
@@ -40,7 +44,8 @@
       "descripcion": "Revisión, limpieza y mantenimiento de herramientas.",
       "imagen": "https://img.freepik.com/free-photo/bike-creation-workshop_23-2148866656.jpg?t=st=1767108034~exp=1767111634~hmac=76c48a1c6a1a305242084cb3179847460e5b1398c975aa25e45494c36b4ec0a6",
       "precio": 60,
-      "estrellas": 4
+      "estrellas": 4,
+      "stock": false
     },
     {
       "id": 3,
@@ -48,7 +53,8 @@
       "descripcion": "Servicio de montaje de muebles a domicilio.",
       "imagen": "https://img.freepik.com/free-photo/smiling-carpenter-measuring-wooden-planks_329181-3745.jpg?t=st=1767114289~exp=1767117889~hmac=4ada6f6f435f6e7c5c354ec32adba8d0d71e2c04ecd01c6964a25325e1184fcb",
       "precio": 90,
-      "estrellas": 4
+      "estrellas": 4,
+      "stock": true
     }
   ]
 }
